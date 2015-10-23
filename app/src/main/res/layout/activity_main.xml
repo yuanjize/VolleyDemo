@@ -6,11 +6,9 @@
     tools:context=".MainActivity">
 
     <View
+        android:id="@+id/AAAAAAAAAAAAAA"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/ss"
-
-        />
+        android:layout_height="match_parent" />
 
     <TextView
         android:id="@+id/tsst"
