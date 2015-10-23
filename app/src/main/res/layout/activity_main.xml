@@ -9,6 +9,6 @@
     <TextView
         android:id="@+id/test"
         android:layout_width="80dp"
-        android:layout_height="100dp"
-        android:text="hello" />
+        android:layout_height="10dp"
+        android:text="helloasa" />
 </RelativeLayout>
