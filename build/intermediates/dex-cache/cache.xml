@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yjz\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.17\f417d7f776d1ee5858fc04d9362aa45e9bedd26b\library-1.0.17.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f417d7f776d1ee5858fc04d9362aa45e9bedd26b">
+        <dex dex="F:\VolledDemo\app\build\intermediates\pre-dexed\debug\library-1.0.17-002ebdde6c9708c96061473f90db1063b7846c3f.jar" />
+    </item>
+    <item
+        jar="F:\VolledDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\VolledDemo\app\build\intermediates\pre-dexed\debug\classes-78ab1f9af0dd3d9963b31c8eda6c92f19fdfd836.jar" />
+    </item>
+    <item
+        jar="F:\VolledDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\VolledDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-bb8dff88c37516187f8e4c6a5a2b70acf49bda11.jar" />
+    </item>
+    <item
+        jar="F:\VolledDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\VolledDemo\app\build\intermediates\pre-dexed\debug\classes-484763e9e6b8e7d51a495f251959c041124ec95a.jar" />
+    </item>
+    <item
+        jar="F:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\VolledDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-adceb0f8226932511460bc5db528a90118998a8a.jar" />
+    </item>
+
+</items>
