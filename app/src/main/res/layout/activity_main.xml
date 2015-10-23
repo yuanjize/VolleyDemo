@@ -6,7 +6,7 @@
     tools:context=".MainActivity">
 
     <View
-        android:id="@+id/AAAAAAAAAAAAAA"
+        android:id="@+id/SSSS"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
